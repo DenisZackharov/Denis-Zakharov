@@ -4,4 +4,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DenisZackharov&theme=tokyonight&border_radius=5.8&card_width=467&fire=EB9D04)](https://git.io/streak-stats)
 
+<a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"></a> 
+<a href="#"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails"></a>
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"></a>
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo"></a>
+<a href="#"><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Graphql"></a>
+
+
+
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTgmLfrfMWmgNFCCcnKMnrnSHpfqQbCVxqKgJQRlJDNJZbgVkHQLQjdmDvcKDBpJttFfTk" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
