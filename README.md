@@ -1,4 +1,4 @@
-### Hi there, i'm Denis, RoR dev 👋
+### Hi there, I'm Denis, RoR dev 👋
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DenisZackharov&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=9a69bf&icon_color=9a69bf&text_color=e7e1eb&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
